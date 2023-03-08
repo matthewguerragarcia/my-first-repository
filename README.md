@@ -1,7 +1,5 @@
-# README #
+# Git Basics
 
-## Table of Contents
-
-- example_file.txt
+Hello World, i love using git!
 
 
